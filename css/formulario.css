@@ -1,0 +1,83 @@
+/* Formulario */
+.form-centro{
+width: 100%;
+height: 600px;
+}
+.form img{
+    width:670px;
+    height:600px;
+} 
+.form-conteudo{
+    width: 50%;
+    color: blanchedalmond;
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    top:4700px;
+}
+/* Texto do formulario */
+input[type=submit] {
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size:18px;
+  }
+input {
+    border: none;
+    border-bottom: 2px solid blue;
+    background-color: black;
+    color: blanchedalmond;
+}
+textarea {
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 440px;
+    opacity: 0.5;
+  }
+/* Icones */
+  section{
+    margin:200px ;
+    width: 1025px;
+    height: 150px;
+}
+.rede img{
+    width: 90px;
+    height: 90px;
+}
+.rede{
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-left: 20px;
+    transition: all 0.4s ease-out;
+    border-radius: 50%;
+    margin-bottom: 380px;
+}
+/* Crescendo icones */
+.rede:hover{
+    cursor: pointer;
+    transform: translateY(-20px);
+
+    box-shadow: 4px 30px 16px 0px rgba(50,50,50,0.45);
+}
+.rede#HBO{
+background-color: #00283B;
+}
+.rede#HBO img{
+    width: 100px;
+    height: 65px;
+    margin:12px auto;
+    padding: 16px;
+}
+#logo img{
+    width: 380px;
+    height: 70px;
+
+}
+.icone{
+    margin:0px auto;
+    padding: 10px;
+    width: 80px;
+}

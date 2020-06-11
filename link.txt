@@ -1,0 +1,156 @@
+youtube
+https://www.youtube.com/watch?v=KcdBOoK3Pfw
+
+exemplo 
+https://www.gamesofthroneslife.com/?sub1=SRC1T4GOT77&sub3=CjwKCAjw5cL2BRASEiwAENqAPvr_X9wt_TB3duNr0VBKeC_CNcSpZd5YaoIGZkQDUs6fb5h_XdzT1xoC-6IQAvD_BwE&gclid=CjwKCAjw5cL2BRASEiwAENqAPvr_X9wt_TB3duNr0VBKeC_CNcSpZd5YaoIGZkQDUs6fb5h_XdzT1xoC-6IQAvD_BwE
+https://www.hbobrasil.com/series/detail/game-of-thrones/13673/HBO196417?cid=search_direct:mltp:23960097:bra|br|hbo|q2|mltp|2020|sem|mltp|mltp|awareness|ctr|product|dsk|mltp|na|23960097:reprise_br:dsk:awa:gameofthrones&gclid=CjwKCAjw5cL2BRASEiwAENqAPh3oJaMqW57EE5jPDd88yLRZBsKIUoftlGYzHBivzBgdFCdMMxSdWhoCifcQAvD_BwE
+
+
+imagem
+https://wall.alphacoders.com/search.php?search=daenerys+targaryen&lang=Portuguese&page=5
+
+cores
+https://color.adobe.com/pt/mythemes
+
+site
+https://www.anicasagrande.com.br/como-inserir-um-subir-ao-topo-em-um-site/
+
+simbolos das casas 
+http://nerdpai.com/16-posters-minimalistas-de-game-of-thrones/
+
+informacoes das casas
+https://www.aficionados.com.br/casas-tradicionais-game-of-thrones/
+
+<div class="about-area" id="livros"></div>
+ <div class="port-area" id="casas"></div>
+ <div class="service-area" id="temporadas"> </div>
+ <div class="contact-area" id="elenco">
+banner-area
+
+rolativo:
+<div class="carousel-container" id="home">
+    <i class="fas fa-arrow-left" id="prevBtn"></i>
+    <i class="fas fa-arrow-right" id="nextBtn"></i>
+     <div class="carousel-slide">
+        <img src="img/day.jpg" id="lastClone"alt="">
+          <img src="img/todos.jpg" alt="">
+          <img src="img/bastardos.jpg" alt="">
+          <img src="img/logo.jpg" alt="">
+          <img src="img/day.jpg" alt="">
+          <img src="img/logo.jpg" id="firstClone"alt="">
+    </div>
+</div>
+-----------cs
+.carousel-container{
+    top: 20px;
+   width: 100%;
+   margin: auto;
+   overflow: hidden;
+   position: relative;
+  
+}
+.carousel-slide img{
+    width: 100%;
+    height: 500px;
+}
+.carousel-slide{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+#prevBtn{
+    position:absolute;
+    top:50%;
+    z-index:10;
+    left:5%;
+    font-size:30px;
+    color:white;
+    opacity: 0.5;
+    cursor: pointer;
+}
+#nextBtn{
+    position:absolute;
+    top:50%;
+    z-index:10;
+    right:5%;
+    font-size:30px;
+    color:white;
+    opacity: 0.5;
+    cursor: pointer;
+}
+ <script src="app.js"></script>
+
+
+------<div>
+    <div class="about-livros" id="livros">
+        
+        <div class="centro-livro">
+           <img src="img/l1.png" alt="" id="l1">
+           <img src="img/l2.jpg" alt="" id="l2">  
+           <img src="img/l3.jpg" alt="" id="l3">
+           <img src="img/l4.jpg" alt="" id="l4"> 
+           <img src="img/l5.jpg" alt="" id="l5"> 
+           <a href="#" id="close">x</a>
+        </div>
+    </div>
+</div>
+
+<a href="#bg">nossa nossa</a>
+<div id="bg"></div>
+<div class="box">
+   <div><img src="img/l1.png" alt=""> usia usai usai inonn </div>
+    <a href="" id="close">x</a>
+</div>
+
+
+.about-livros{
+
+    
+}
+.about-livros img{
+    width: 300px;
+    height: 300px;
+}
+.centro-livro img{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+<div class="conteudo-elenco">
+    <div class="conteudo-elenco-mapa" id="elenco">
+        <img src="img/todos.jpg"  usemap="#meumapa" alt="">
+        <map name="meumapa">
+            <!-- os starks -->
+           
+            <area shape="rect" coords="-15,-3,2560,1600" href="#catelyn" alt="">
+            <area shape="rect" coords="1,1,2560,1600" href="#sansa" alt="">
+            <area shape="rect" coords="1,-55,2560,1600" href="#arya" alt="">
+            <area shape="rect" coords="-28,-83,2560,1600" href="#jon" alt="">
+            <area shape="rect" coords="-11,-3,2560,1600" href="#robb" alt="">
+            <area shape="rect" coords="3,-9,2560,1600" href="#bran" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="div-elenco.html #ned" alt="">
+            <!-- os lannister -->
+            <area shape="rect" coords="-39,-15,2560,1600" href="#jaime" alt="">
+            <area shape="rect" coords="-31,-14,2560,1600" href="#cersei" alt="">
+<!--             <area shape="rect" coords="-11,-5,2560,1600" href="#joffrey" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#tyrion" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#davos" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#stannis" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#melisandre" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#khal_drogo" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#mindinho" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#Samwell" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+            <area shape="rect" coords="-11,-5,2560,1600" href="#ned" alt="">
+ -->
