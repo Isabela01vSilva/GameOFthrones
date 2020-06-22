@@ -4,7 +4,8 @@
     height: 645px;
 }
 .area-casas img{
-    width: 146px;
+    width: 142px;
+    min-width: 135px;
     height: 585px;
 }
 /* crescer as imagens */

@@ -20,6 +20,11 @@ padding: 40px;
   }
 
 /*tratando os textos*/
+#texto-livros hr {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0),rgb(52, 73, 94), rgba(0, 0, 0, 0));
+}
 #texto-livros{
     color:#fff;
     position: absolute;
@@ -90,7 +95,7 @@ padding: 40px;
 }
 .box-l2:target{
     display: block;
-}
+} 
 /*terceiro livro*/
 #L3 {
     width: 100%;
@@ -185,7 +190,7 @@ padding: 40px;
     display: block;
 }
 /* Sexto livro*/
-#L6 {
+ #L6 {
     width: 100%;
     height: 700px;
     top: 70px;
